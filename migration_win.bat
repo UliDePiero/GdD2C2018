@@ -1,0 +1,1 @@
+sqlcmd -S localhost\SQLSERVER2012 -U gdEspectaculos2018 -P gd2018 -i script_creation_initial.sql -a 32767 -o normalisation_output.txt
